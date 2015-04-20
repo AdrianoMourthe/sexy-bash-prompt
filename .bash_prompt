@@ -267,7 +267,7 @@ function timer_stop {
 trap 'timer_start' DEBUG
 PROMPT_COMMAND=timer_stop
 
-TIME_PROMPT='$([ $timer_show -gt 0 ] && echo -e "\a[${timer_show}s] ")'
+TIME_PROMPT='$([ $timer_show -gt 0 ] && echo -e "\a[last: ${timer_show}s] ")'
 
 # Define the sexy-bash-prompt
 PS1="\[$sexy_bash_prompt_user_color\]\u\[$sexy_bash_prompt_reset\] \
