@@ -1,4 +1,4 @@
-# sexy-bash-prompt [![Build status](https://travis-ci.org/twolfson/sexy-bash-prompt.png?branch=master)](https://travis-ci.org/twolfson/sexy-bash-prompt)
+# sexy-bash-prompt
 
 [Bash][bash] prompt with colors, git statuses, and git branches.
 
@@ -16,13 +16,13 @@ Forked from [a gist by gf3][sexy-bash-orig].
 [Support us via gratipay][gratipay] or [spread word on Twitter][twitter]
 
 [gratipay]: https://gratipay.com/sexybashprompt/
-[twitter]: https://twitter.com/intent/tweet?text=Bash%20prompt%20with%20colors%2C%20git%20statuses%2C%20and%20git%20branches&url=https%3A%2F%2Fgithub.com%2Ftwolfson%2Fsexy-bash-prompt&via=sexybashprompt
+[twitter]: https://twitter.com/intent/tweet?text=Bash%20prompt%20with%20colors%2C%20git%20statuses%2C%20and%20git%20branches&url=https%3A%2F%2Fgithub.com%2Fjuanplopes%2Fsexy-bash-prompt&via=juanplopes
 
 ## Installation
 One line install:
 
 ```bash
-(cd /tmp && git clone --depth 1 https://github.com/twolfson/sexy-bash-prompt && cd sexy-bash-prompt && make install) && source ~/.bashrc
+(cd /tmp && git clone --depth 1 https://github.com/juanplopes/sexy-bash-prompt && cd sexy-bash-prompt && make install) && source ~/.bashrc
 ```
 
 ### My colors don't look as advertised
