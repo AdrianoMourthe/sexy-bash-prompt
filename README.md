@@ -7,6 +7,7 @@ Providing a unique symbol for every combination of a dirty, unpulled, and unpush
 ![sexy-bash-prompt screenshot][screenshot]
 
 [screenshot]: screenshot.png
+[screenshot2]: screenshot2.png
 
 Forked from [a gist by gf3][sexy-bash-orig].
 
